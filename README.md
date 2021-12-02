@@ -7,3 +7,4 @@
 | Generating Keywords for Google Ads|pprint pandas|.to_csv() .append() .from_records() .rename() .copy() .DataFrame() .count() .groupby() .head()|pprint() print()|.csv|
 |Give Life: Predict Blood Donations|- |-|-|-|
 |Real-time Insights from Social Media Data|Counter collections json matplotlib.pyplot pandas|.dumps() .keys() .loads() .read() .background_gradient() .intersection() .most_common() .DataFrame() .hist() .sort_values() .sum() .append() .groupby()|type() Counter() open() set() print() len()|.json .style .pyplot|
+|Titanic|- |-|-|-|
