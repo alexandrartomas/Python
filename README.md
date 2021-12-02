@@ -2,6 +2,7 @@
 
 | Project Name | Imports | Methods | Functions | Attributes/Extensions|
 | --- | --- | --- | --- | --- |
+|Covid-19|- |-|-|-|
 |Exploring the Evolution of Linux|pandas|.describe() .Grouper() .max() .min() .idxmax() .read() .unique() .count() .set_xlabel() .set_ylabel() .dropna() .to_datetime() .value_counts() .plot() .groupby() .head() .read_csv()|open() len() print()|.timestamp .author .year .gz .columns .index .csv|
 | Generating Keywords for Google Ads|pprint pandas|.to_csv() .append() .from_records() .rename() .copy() .DataFrame() .count() .groupby() .head()|pprint() print()|.csv|
 |Give Life: Predict Blood Donations|- |-|-|-|
