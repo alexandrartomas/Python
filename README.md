@@ -36,3 +36,24 @@ especially the
 
 
 [Original project](https://www.datacamp.com/projects/111) by Markus Harrer, Software Development Analyst
+
+## Generating Keywords for Google Ads
+<div>
+ <p>
+  You work for a digital marketing agency, which is approached by a massive online retailer of furniture. 
+You are tasked with creating a prototype set of keywords for search campaigns for their sofas section. With your 
+Python skills, you will efficiently create these keywords!
+ </p>
+ <p>
+  The most important task in structuring a search engine marketing account is mapping the right keywords to the right ads and making sure they send users to the right landing pages. Having figured that out is a big part of the account setup and makes the life of the account manager much easier.
+ </p>
+</div>
+ 
+
+
+| Keywords | Imports | Methods | Functions | Attributes/Extensions|
+| --- |--- | --- | --- | --- |
+|keyword sofa reclin campaign match exact ad campaign1 buy brief sem_sofa price phrase adgroup_1 datacampsofa deliveri shop product search client|pprint pandas|.to_csv() .append() .from_records() .rename() .copy() .DataFrame() .count() .groupby() .head()|pprint() print()|.csv|
+
+
+[Original project](https://www.datacamp.com/projects/400) by Elias Dabbas, Owner at The Media Supermarket
