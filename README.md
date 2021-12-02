@@ -1,4 +1,4 @@
-## [Exploring the Evolution of Linux]
+## Exploring the Evolution of Linux
 <div>
  <p>
   Version control repositories like CVS, Subversion or Git store rich
