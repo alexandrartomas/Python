@@ -57,3 +57,36 @@ Python skills, you will efficiently create these keywords!
 
 
 [Original project](https://www.datacamp.com/projects/400) by Elias Dabbas, Owner at The Media Supermarket
+
+
+## Real-time Insights from Social Media Data
+<div>
+ <p>
+  Fear of missing out, curiosity, self-esteem, speed: it's like social media has changed our basic human needs; these baits are keeping us hooked and engaged. And Twitter is a master at this
+  <em>
+   game
+  </em>
+  .  Elon Musk's tweets keep Wall Street on its toes; Trump's tweets have the potential of starting wars — Twitter has this huge influence on the world because of the type of its users. Data from
+  <em>
+   Twitter-storms
+  </em>
+  is available in near real-time. This means we can learn about the big waves of thoughts and moods around the world as they arise. So of course, we are not going to miss the chance to analyze this treasure trove.
+ </p>
+ <p>
+  In this Project, you will use pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, you will do a thorough analysis of a hot-trend.
+ </p>
+ <p>
+  <em>
+   Warning: Some of the tweets in the Twitter datasets contain explicit language.
+  </em>
+ </p>
+</div>
+ 
+
+
+| Keywords | Imports | Methods | Functions | Attributes/Extensions|
+| --- |--- | --- | --- | --- |
+|tweet twitter trend welovetheearth retweet dicki json lil queri topic music leo api earth hashtag kati thought video insight around|Counter collections json matplotlib.pyplot pandas|.dumps() .keys() .loads() .read() .background_gradient() .intersection() .most_common() .DataFrame() .hist() .sort_values() .sum() .append() .groupby()|type() Counter() open() set() print() len()|.json .style .pyplot|
+
+
+[Original project](https://www.datacamp.com/projects/760) by Samia Khalid, Senior Software Engineer at Microsoft
